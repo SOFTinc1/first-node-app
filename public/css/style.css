@@ -1,0 +1,19 @@
+.making .card{
+    width: 70%;
+    box-shadow: 0px 0px 4px 1px #636363;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+.form-1 .card{
+    padding: 20px;
+    font-weight: bold;
+    width: 75%;
+    margin-left: 180px;
+}
+.form-1 .card input, textarea{
+    margin-bottom: 10px;
+}
